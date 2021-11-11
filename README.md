@@ -1,4 +1,4 @@
-# TF2C-Nofalloff-attribute-fix
+# TF2C Nofalloff attribute fix
 Replicates no-falloff attribute for RPG and Hunting Revolver
 
 No-damage-falloff-over-distance attribute is broken since 2.0.2: it gets applied onto all the weapons the player has, not just the one it's intended to be applied onto.
