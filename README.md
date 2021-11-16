@@ -9,6 +9,6 @@ Proposed solution: enable attached items_game.txt (the only difference is that n
 
 All the plugin does is replicating the attribute for RPG and Hunting Revolver.
 
-items_game file it must be mounted through custom subfolder.
+"items_game" file  must be mounted through "custom" subfolder.
 **Clients don't need to have this version of file**, it needs to be modified only server-side.
 Server must be restarted for global items_game to be reloaded.
